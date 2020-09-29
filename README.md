@@ -1,6 +1,6 @@
 ### Hi there, I'm Query - Poyraz Türksoy  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HeawenOfficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%HeawenOfficial&screen_name=HeawenOfficial)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HeaweNofficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%HeaweNofficial&screen_name=HeaweNofficial)
 
 ## I'm a Developer, and Student!
 
