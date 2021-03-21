@@ -1,43 +1,46 @@
-### Hi there, I'm Query - Poyraz Türksoy  👋
-
-## I'm a Developer, and Student!
-
-- 💻 Owner of (%loading%)
+<h1 align="center">Hi 👋, I'm Poyraz</h1>
+<h3 align="center">Founder of Akıllı Rehberim and Poyraz KARGO</h3>
 
 
-### Connect with me:
+### 🛠 Tech Stack
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-05122A?&style=flat&logo=kotlin)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=239120)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/nuxt.js-05122A?style=flat&logo=nuxt.js)&nbsp;
+![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql&logoColor=E10098)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 📊 GitHub Analytics
 
-<br />
+<p align="center">
+<a href="https://github.com/Adem68">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=adem68&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="adem68"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem68&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="adem68"/>
+</a>
+</p>
 
-### Languages and Tools:
+### 🤝🏻 Social
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="26px" src="https://img.favpng.com/13/0/9/python-programming-language-computer-programming-png-favpng-NXxTGpGnYiMa6MVQshnN6VnF7.jpg" />
-<img align="left" alt="Lua" width="26px" src="https://vignette.wikia.nocookie.net/community/images/a/af/Lua-logo-nolabel.png/revision/latest/scale-to-width-down/340?cb=20191014193112&path-prefix=tr" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://t.me/" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
+<a href="https://play.google.com/store/apps/developer?id" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
+</p>
 
+### 🎧 Now Playing
 
-<br />
-<br />
-
----
-
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="PoyrazTurksoy Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PoyrazTurksoy&show_icons=true&hide_border=true" />
-
-</details>
-
-[instagram]: https://instagram.com/PoyrazTurksoyOfficial
-
+[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/21dlgyscmbnmydlozypr7hp4i)
