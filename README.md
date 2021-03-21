@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://github.com/PoyrazTurksoy">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PoyrazTurksoy&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="PoyrazTurksoy"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/apiusername=PoyrazTurksoy&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="PoyrazTurksoy"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoyrazTurksoy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="PoyrazTurksoy"/>
 </a>
 </p>
