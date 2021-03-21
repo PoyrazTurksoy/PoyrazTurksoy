@@ -43,4 +43,4 @@
 
 ### 🎧 Now Playing
 
-[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/21dlgyscmbnmydlozypr7hp4i)
+[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/xinhpao7lii493iqr42iluuza)
