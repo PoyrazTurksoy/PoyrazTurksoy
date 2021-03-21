@@ -1,17 +1,12 @@
 ### Hi there, I'm Query - Poyraz Türksoy  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HeaweNofficial?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%HeaweNofficial&screen_name=HeaweNofficial)
-
 ## I'm a Developer, and Student!
 
-- 🔭 I’m currently working freelance
-- 💻 I’m cyber security researcher
+- 💻 Owner of (%loading%)
 
 
 ### Connect with me:
 
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -44,6 +39,5 @@
 
 </details>
 
-[twitter]: https://twitter.com/HeawenOfficial
 [instagram]: https://instagram.com/PoyrazTurksoyOfficial
 
