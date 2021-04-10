@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poyraz</h1>
+### Namı Değer AYTİ SORUMLU UZMAN Bilgi İşlem :) 
 <h3 align="center">Founder of Akıllı Rehberim and Poyraz KARGO</h3>
 
 
@@ -16,10 +17,6 @@
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
-### 📊 GitHub Analytics
-<p>
-Yakında
-</p>
 
 ### 🤝🏻 Social
 
