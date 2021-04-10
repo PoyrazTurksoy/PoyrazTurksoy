@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Poyraz</h1>
-### Namı Değer AYTİ SORUMLU UZMAN Bilgi İşlem :) 
 <h3 align="center">Founder of Akıllı Rehberim and Poyraz KARGO</h3>
 
+### Namı Değer AYTİ SORUMLU UZMAN Bilgi İşlem :) 
 
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
