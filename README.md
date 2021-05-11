@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Poyraz</h1>
-<h3 align="center">Founder of Akıllı Rehberim and Poyraz KARGO</h3>
+<h1 align="center">Hi 👋, I'm ぞ Lexa </h1>
+<h3 align="center">Founder of Nirvana Network and Poyraz Software</h3>
 
 
 ### 🛠 Tech Stack
